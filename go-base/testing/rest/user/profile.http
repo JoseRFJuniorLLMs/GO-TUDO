@@ -1,0 +1,10 @@
+
+GET {{host}}/api/profile
+Authorization: {{jwtUser}}
+###
+PUT {{host}}/api/profile
+Authorization: {{jwtUser}}
+
+{
+    "theme": "dark"
+}
