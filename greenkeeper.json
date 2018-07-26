@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "GolangTraining/27_code-in-process/98-good-student-code/daniel/Week4/flickrFeed/package.json",
+        "GolangTraining/27_code-in-process/98-good-student-code/daniel/Week4/liveSearch/package.json",
+        "GolangTraining/27_code-in-process/98-good-student-code/daniel/Week4/mustacheTemplate/package.json",
+        "rest-demo/package.json"
+      ]
+    }
+  }
+}
